@@ -89,6 +89,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=velisara&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=velisara&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velisara&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velisara&theme=tokyonight&cache_seconds=1800)

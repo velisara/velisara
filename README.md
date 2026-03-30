@@ -30,32 +30,32 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-ADD8E6?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java)
+![C](https://img.shields.io/badge/C-D3D3D3?style=flat&logo=c)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![HTML](https://img.shields.io/badge/HTML-FFD580?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-ADD8E6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFACD?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-90EE90?style=flat&logo=node.js)
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD580?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-FFFACD?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-D3D3D3?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-ADD8E6?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-D3D3D3?style=flat)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-90EE90?style=flat&logo=mongodb)
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
+![Git](https://img.shields.io/badge/Git-FFD580?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-D3D3D3?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FFD580?style=flat&logo=gitlab)
 
 ---
 

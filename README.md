@@ -30,7 +30,7 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
